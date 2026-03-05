@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Sherry独行日志</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Sherry独行日志</h1>
+
+<p>一个人的旅行 / 一人食 / 一人生活</p>
+
+<ul>
+
+<li>我的旅行日志</li>
+
+<li>一人食推荐</li>
+
+<li>独自旅行攻略</li>
+
+</ul>
+
+</div>
+
+</body>
+</html>

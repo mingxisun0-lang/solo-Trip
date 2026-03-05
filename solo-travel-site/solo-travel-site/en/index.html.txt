@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Sherry Solo Journal</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Sherry Solo Journal</h1>
+
+<p>Solo travel / Solo food / Solo living</p>
+
+</div>
+
+</body>
+</html>

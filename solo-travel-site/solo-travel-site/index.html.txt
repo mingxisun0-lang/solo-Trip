@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Sherry Solo Journal</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Sherry Solo Journal</h1>
+<p>A solo travel & lifestyle blog</p>
+
+<div class="language">
+
+<a href="zh-cn/">简体中文</a>
+
+<a href="zh-tw/">繁體中文</a>
+
+<a href="en/">English</a>
+
+</div>
+
+</div>
+
+</body>
+</html>
